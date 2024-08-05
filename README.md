@@ -18,6 +18,7 @@ Cicada Media Player is a multi platform player sdk，**Keep the world free of di
 ## Try it on Android devices
 
 [![deom](doc/demoQR.png)](https://alivc-demo-cms.alicdn.com/versionProduct/other/public/cicadaPlayer/cicadaPlayer.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsdryganets-sc%2FCicadaPlayer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsdryganets-sc%2FCicadaPlayer?ref=badge_shield)
 
 ## HOW TO compile
 
@@ -106,3 +107,6 @@ CicadaPlayerSDK using the projects:
   [libxml2](http://xmlsoft.org/)
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsdryganets-sc%2FCicadaPlayer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsdryganets-sc%2FCicadaPlayer?ref=badge_large)
